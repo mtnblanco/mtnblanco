@@ -6,7 +6,7 @@
 
 Contact info
 <a href="https://www.linkedin.com/in/martinsblanco/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="5" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 <a href="mailto:maitu387@gmail.com" target="_blank">
