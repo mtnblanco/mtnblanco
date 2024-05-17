@@ -6,7 +6,7 @@
 
 Contact info
 <a href="https://www.linkedin.com/in/martinsblanco/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  mateo_ibanez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_logo_initials.png&psig=AOvVaw1aYddrpHIBGVXCu3_WDQgJ&ust=1716048101202000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPif872HlYYDFQAAAAAdAAAAABAE" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 <a href="mailto:maitu387@gmail.com" target="_blank">
